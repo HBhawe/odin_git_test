@@ -1,3 +1,4 @@
 # odin_git_test
-My "first" githun repo
+
+My "first" github repo
 Hello Odin!
